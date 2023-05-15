@@ -1,7 +1,7 @@
 # Virtual Banking System API
 
 Virtual Banking System(VBS) is one of the services used in Apiator project. 
-This service is used to manage cards and to make payments in the [Shop service](https://gitlab.com/restlesslizard/apiator-shop).
+This service is used to manage cards and to make payments in the [Shop service](https://github.com/bubblegone/apiator-shop).
 
 ## Authentication
 
